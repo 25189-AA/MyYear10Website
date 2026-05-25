@@ -1,5 +1,5 @@
 /* A simple css reset */
-@import url(https://fonts.googleapis.com/css2?family=Lora);
+@import url("https://fonts.googleapis.com/css2?family=Lora");
 body,
 html {
     margin: 0;
